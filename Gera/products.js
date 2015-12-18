@@ -1,5 +1,5 @@
 (function(){
-    //Este archivo contiene SOLO DIRECTIVAS personalizadas, las que hemos creado
+    //this file contains personalized directives for the app
     var app = angular.module('productsDirec', []);
 
     app.directive("productoName", function () {
@@ -36,7 +36,7 @@
             templateUrl: 'htmls/PanelesProductos.html',
             controller: function()
             {
-                this.tab = 0; //0 -->N o haya tab seleccionado al iniciar
+                this.tab = 0; //0 -->No tab selected at startup
                 this.setTab = function(setTab) {
                     this.tab = setTab;
                 };
@@ -44,7 +44,7 @@
                     return this.tab === checkTab;
                 };
             },
-            controllerAs: 'panel'
+            controllerAs: ''
         };
     });
 
