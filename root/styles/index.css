@@ -1,15 +1,20 @@
 body{
 	font-family: 'Open Sans', sans-serif !important;
 	font-weight: 300;
+	padding-top: 80px;
+	padding-bottom: 50px;
 }
 header{
-	height: 80px;
+	height: 65px;
 	padding: 5px 7%;
-	margin-bottom: 15px;
+	top: 0;
 }
 header, footer{
 	background-color: #142F66;
 	color: white;
+
+    position: fixed;
+    z-index: 9999;
 }
 .header-content{
 	display: flex;
@@ -18,6 +23,7 @@ header, footer{
 .name-list{
 	display: flex;
     justify-content: center;
+    margin-bottom: 0px;
 }
 .name-item{
 	list-style: none;
@@ -33,7 +39,7 @@ header, footer{
 	border-left: 1px solid white;
 }
 .logo-img{
-    max-width: 65px;
+    max-width: 50%;
 }
 .image-container{
 	padding: 15px;
@@ -72,8 +78,13 @@ header, footer{
 	background-image: url('../images/luke.jpg');
 }
 footer{
-	margin-top: 15px;
 	display: flex;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+footer p{
+	margin: 5px 0px;
 }
 .copyright{
 	display: flex;
