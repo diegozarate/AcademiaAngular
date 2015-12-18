@@ -1,0 +1,84 @@
+body{
+	font-family: 'Open Sans', sans-serif !important;
+	font-weight: 300;
+}
+header{
+	height: 80px;
+	padding: 5px 7%;
+	margin-bottom: 15px;
+}
+header, footer{
+	background-color: #142F66;
+	color: white;
+}
+.header-content{
+	display: flex;
+	align-items: center;
+}
+.name-list{
+	display: flex;
+    justify-content: center;
+}
+.name-item{
+	list-style: none;
+	display: inline-block;
+	color: white;
+	padding: 0px 30px;
+	cursor: pointer;
+}
+.axel:hover, .diego:hover, .fer:hover, .fritz:hover, .gera:hover, .jorge:hover, .marin:hover{
+	font-weight: 700;
+}
+.border-left{
+	border-left: 1px solid white;
+}
+.logo-img{
+    max-width: 65px;
+}
+.image-container{
+	padding: 15px;
+	cursor: pointer;
+}
+.photo{
+	height: 70vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: all ease 0.3s;
+}
+.photo:hover{
+	-webkit-filter: grayscale(0%);
+}
+.photo.vader{
+	background-image: url('../images/vader.jpg');
+}
+.photo.obi-wan{
+	background-image: url('../images/obi wan.jpg');
+}
+.photo.anakin-skywalker{
+	background-image: url('../images/anakin.jpg');
+}
+.photo.yoda{
+	background-image: url('../images/yoda.png');
+}
+.photo.dooku{
+	background-image: url('../images/dooku.jpg');
+}
+.photo.windu{
+	background-image: url('../images/windu.jpg');
+}
+.photo.luke-skywalker{
+	background-image: url('../images/luke.jpg');
+}
+footer{
+	margin-top: 15px;
+	display: flex;
+}
+.copyright{
+	display: flex;
+	justify-content: center;
+}
+.copyright p{
+	align-self: flex-end;
+}
