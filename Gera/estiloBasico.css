@@ -1,0 +1,41 @@
+.col-md-3.a{
+  color: white;
+  background-color: black;
+}
+
+.busq{
+  padding: 2px 7px;
+}
+
+footer{
+  color: white;
+  background-color: black;
+}
+
+.jumbotron{
+  color: white;
+  background-color: black;
+}
+
+/*Colores de clases validación angular*/
+.ng-invalid.ng-dirty{
+    border-color: red;
+}
+
+.ng-valid.ng-dirty{
+    border-color: green;
+}
+
+.ng-valid.ng-dirty{
+    border-color: green;
+}
+
+/*Imágenes del album*/
+.img-rounded{
+  width: 90%;
+}
+
+/*Imágenes circulares de la disquera*/
+.img-circle{
+  width: 25%;
+}
