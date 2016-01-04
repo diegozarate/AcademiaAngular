@@ -8,11 +8,11 @@
         var arreglo = this;
         arreglo.personas = [];
         //Leemos el archivo JSON usando el servicio $http (Caso de exito, si está bien escrito JSON)
-        $http.get('/team.json').success(function(data){
+        $http.get('team.json').success(function(data){
             arreglo.personas = data;
         })
         //Y si falla la lectura de JSON
-        $http.get('/team.json').error(function(data){
+        $http.get('team.json').error(function(data){
             console.log("No funciona JSON");
         })
     }]);
