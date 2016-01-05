@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Axel",
+        "jobTitle": "Software developer",
+        "description": "He works in Softtek",
+        "site": "axel.com",
+        "imagenes":
+        {
+            "pic": "img/people.jpg"
+        },
+        "opiniones":
+        [{
+            "rate":5,
+            "comment": "First ",
+            "reviewer": "name@mail.com"
+        }]
+    }
+    ,
+    {
+        "name": "Diego",
+        "jobTitle": "Software developer",
+        "description": "He works in Softtek",
+        "site": "diego.com",
+        "imagenes":
+        {
+            "pic": "img/people.jpg"
+        },
+        "opiniones":
+        [{
+            "rate":5,
+            "comment": "Second",
+            "reviewer": "name@mail.com"
+        }]
+    }
+    ,
+    {
+        "name": "Fritz",
+        "jobTitle": "Software developer",
+        "description": "He works in Softtek",
+        "site": "fritz.com",
+        "imagenes":
+        {
+            "pic": "img/people.jpg"
+        },
+        "opiniones":
+        [{
+            "rate":5,
+            "comment": "Third",
+            "reviewer": "name@mail.com"
+        }]
+    }
+    ,
+    {
+        "name": "Jorge",
+        "jobTitle": "Software developer",
+        "description": "He works in Softtek",
+        "site": "jorge.com",
+        "imagenes":
+        {
+            "pic": "img/people.jpg"
+        },
+        "opiniones":
+        [{
+            "rate":5,
+            "comment": "Fourth",
+            "reviewer": "name@mail.com"
+        }]
+    }
+    ,
+    {
+        "name": "Gerardo",
+        "jobTitle": "Software developer",
+        "description": "He works in Softtek",
+        "site": "gera.com",
+        "imagenes":
+        {
+            "pic": "img/people.jpg"
+        },
+        "opiniones":
+        [{
+            "rate":5,
+            "comment": "Fifth",
+            "reviewer": "name@mail.com"
+        }]
+    }
+    ,
+    {
+        "name": "Marin",
+        "jobTitle": "Software developer",
+        "description": "He works in Softtek",
+        "site": "marin.com",
+        "imagenes":
+        {
+            "pic": "img/people.jpg"
+        },
+        "opiniones":
+        [{
+            "rate":5,
+            "comment": "Sixth",
+            "reviewer": "name@mail.com"
+        }]
+    }
+    ,
+    {
+        "name": "Fernando",
+        "jobTitle": "Software developer",
+        "description": "He works in Softtek",
+        "site": "fernando.com",
+        "imagenes":
+        {
+            "pic": "img/people.jpg"
+        },
+        "opiniones":
+        [{
+            "rate":5,
+            "comment": "Seventh",
+            "reviewer": "name@mail.com"
+        }]
+    }
+
+]
