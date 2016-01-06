@@ -1,50 +1,50 @@
 [
     {
-        "name": "Axel",
+        "name": "Axel Cardenas",
+        "jobTitle": "Software developer",
+        "description": "I am a computer systems engineer. I have knowledge on programming, networking, databases, testing, and some others IT areas. In my free time I like to play video games, listen to music, watch and play sports, go to movies, read, and play with my pets ",
+        "img": "img/people.jpg"
+    }
+    ,
+    {
+        "name": "Diego Zarate",
+        "jobTitle": "Software developer",
+        "description": "He is a multifunctional engineer with a good skills of relationships and leadership. His strengths are the responsibility, the quick learning, adaptability and the passion for doing what he likes.",
+        "img": "img/people.jpg"
+    }
+    ,
+    {
+        "name": "Fritz ",
         "jobTitle": "Software developer",
         "description": "He works in Softtek",
         "img": "img/people.jpg"
     }
     ,
     {
-        "name": "Diego",
+        "name": "Jorge Acevedo",
         "jobTitle": "Software developer",
         "description": "He works in Softtek",
         "img": "img/people.jpg"
     }
     ,
     {
-        "name": "Fritz",
+        "name": "Gerardo Rosales",
         "jobTitle": "Software developer",
-        "description": "He works in Softtek",
+        "description": "Borned in Tlaltenango, Zacatecas. 23 years old. Computer systems engineer. With some experience in programming languages like Java, Javascript, Python and C#. Now learning AngularJs framework for web development.",
         "img": "img/people.jpg"
     }
     ,
     {
-        "name": "Jorge",
+        "name": "Marin Ibarra",
         "jobTitle": "Software developer",
-        "description": "He works in Softtek",
+        "description": "24 years old. Software Engineer. Enjoying life, to the last drop. Coffeeholic. Android lover, Apple hater. 2 years’ experience at developing.",
         "img": "img/people.jpg"
     }
     ,
     {
-        "name": "Gerardo",
+        "name": "Fernando Hernandez",
         "jobTitle": "Software developer",
-        "description": "He works in Softtek",
-        "img": "img/people.jpg"
-    }
-    ,
-    {
-        "name": "Marin",
-        "jobTitle": "Software developer",
-        "description": "He works in Softtek",
-        "img": "img/people.jpg"
-    }
-    ,
-    {
-        "name": "Fernando",
-        "jobTitle": "Software developer",
-        "description": "He works in Softtek",
+        "description": "Systems Engineer. 24y/o, Yucateco from birth, Northern by heart. Fancy for technology, Love for animals, books, and coffee.",
         "site": "fernando.com",
         "img": "img/people.jpg"
     }
